@@ -32,10 +32,11 @@ Sift together dry ingredients in a separate bowl.
 | Powdered Sugar | | Optional |
 | Lemon Curd | | Optional
 
-## Required Hardware
+## Required Tools
 
 - 8 to 12 Inch Cast Iron Skillet 
 - Whisk or Mixer
+- Sieve or Sifter
 
 ## Preperation
 
