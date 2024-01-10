@@ -1,6 +1,8 @@
 # Dutch Baby
 
-Dutch baby description
+A dutch baby is a puffed pancake that is baked at high heat in the oven.
+
+![dutch baby](media/dutch_baby.jpg)
 
 ## Wet Ingredients
 
