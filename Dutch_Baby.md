@@ -18,7 +18,7 @@ Mix together wet ingredients in a bowl.
 
 |Ingredient|Amount|Other|
 |:---|:---|:---|
-| Flour | 3/4 Cup | |
+| Flour | 3/4 Cup (80-90 grams?) | |
 | Sugar | 1 Tablespoon | |
 | Salt | 1 Pinch | |
 | Nutmeg | 1 Teaspoon | |
