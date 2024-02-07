@@ -19,7 +19,7 @@ Mix together wet ingredients in a bowl.
 |Ingredient|Amount|Other|
 |:---|:---|:---|
 | Flour | 90 grams (about 3/4 Cup) | |
-| Sugar | 15 grams (about 1 Tablespoon | |
+| Sugar | 15 grams (about 1 Tablespoon) | |
 | Salt | 1 Pinch | |
 | Nutmeg | 1 Teaspoon | Optional |
 | Cinnamon | 1 Teaspoon | Optional |
@@ -51,4 +51,4 @@ Sift together dry ingredients in a separate bowl.
 6. Once oven is hot add butter to the cast iron skillet and let it melt in the oven for 3-5 minutes
 7. Roll buttery around skillet and until most of it is covered 
 8. Pour ingredients into the hot skillet
-9. Bake for 18 minutes and check the color. If color is still light but it is puffed turn off oven and bake for 3-5 more minutes
+9. Bake for 18 minutes and check the color. If color is still light but it is puffed turn off oven and bake for 5 more minutes
