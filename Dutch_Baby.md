@@ -18,11 +18,12 @@ Mix together wet ingredients in a bowl.
 
 |Ingredient|Amount|Other|
 |:---|:---|:---|
-| Flour | 3/4 Cup (80-90 grams?) | |
-| Sugar | 1 Tablespoon | |
+| Flour | 90 grams (about 3/4 Cup) | |
+| Sugar | 15 grams (about 1 Tablespoon | |
 | Salt | 1 Pinch | |
-| Nutmeg | 1 Teaspoon | |
+| Nutmeg | 1 Teaspoon | Optional |
 | Cinnamon | 1 Teaspoon | Optional |
+| Ground Cloves | 1 Teaspoon | Optional |
 
 Sift together dry ingredients in a separate bowl.
 
@@ -43,7 +44,7 @@ Sift together dry ingredients in a separate bowl.
 ## Preperation
 
 1. Let eggs and milk get to room temperature
-2. Heat over to 415 degrees
+2. Heat oven to 415 degrees
 3. Mix wet ingredients
 4. Mix dry ingredients
 5. Mix together wet ingredients into the dry with a whish or a mixer until it is smooth
