@@ -2,7 +2,7 @@
 
 A dutch baby is a puffed pancake that is baked at high heat in the oven.
 
-![dutch baby](media/dutch_baby.jpg)
+![dutch baby](media/dutch_baby_2.jpg)
 
 ## Wet Ingredients
 
