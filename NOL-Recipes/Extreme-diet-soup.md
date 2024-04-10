@@ -1,4 +1,6 @@
-[Extreme diet soup](https://recipes.sparkpeople.com/recipe-detail.asp?recipe=540531)
+# [Extreme diet soup](https://recipes.sparkpeople.com/recipe-detail.asp?recipe=540531)
+
+## Make sure to salt at different times to layer your seasoning
 
 ### Ingredients
 - [ ] 2 Tbs. extra virgin olive oil
